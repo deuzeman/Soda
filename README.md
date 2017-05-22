@@ -1,0 +1,2 @@
+# Soda
+Analytical sudoku solver
